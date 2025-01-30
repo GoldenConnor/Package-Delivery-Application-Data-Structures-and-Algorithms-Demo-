@@ -1,4 +1,3 @@
-# Nnamdi Joshua Madakor, ID: 000214961
 from PackageHandler import PackageHandler
 from Graph import Graph
 from Truck import Truck
