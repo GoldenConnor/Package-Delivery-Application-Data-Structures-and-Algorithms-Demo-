@@ -1,17 +1,9 @@
-# Data Structures and Algorithms II – C950
-
-## WGUPS Routing Program
-
-This is a project specified by WGU to solve a package delivery routing problem,
-which is essentially the TSP problem. For my solution I implemented the 2-opt
-algorithm, which is a known solution to the TSP that runs in `O(n^2)`.
-
 ## Usage
 
-To get the code run this from the command line:
+To get the code to run from the command line:
 
 ```commandline
-git clone https://github.com/joshmadakor1/C950.git
+git clone https://github.com/goldenconnor/C950.git
 ```
 
 Once that is done, in the main directory where `main.py` is located run:
@@ -25,7 +17,7 @@ depending on python version^^^
 From there you should see the Command Line Interface like this:
 
 ```commandline
-nnamdimadakor@nnamdis-Mac-mini C950 % python3 Main.py
+gconnor@gconnor-Macbook Pro C950 % python3 Main.py
 
 	What would you like to do?
 
