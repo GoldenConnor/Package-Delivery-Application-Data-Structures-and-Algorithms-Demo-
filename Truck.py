@@ -1,4 +1,3 @@
-# Nnamdi Joshua Madakor, ID: 000214961
 from COLORS import COLORS
 from queue import Queue
 from datetime import timedelta
