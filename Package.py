@@ -1,4 +1,3 @@
-# Nnamdi Joshua Madakor, ID: 000214961
 import csv
 
 
